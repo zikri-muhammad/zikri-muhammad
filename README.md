@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical.
 
-- :zap: In my free time, I solve problems on https://www.codewars.com or hackerrank.
+- :zap: In my free time, I solve problems on https://www.codewars.com/users/zikri-muhammad or hackerrank.
 
 
 ---
